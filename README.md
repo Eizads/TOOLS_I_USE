@@ -6,6 +6,10 @@ An overview of the tools and technologies I use in my daily workflow for Full St
 - Macbook Pro (M4 Chip)
 - LG Monitor 
 
+## Code Editors
+- Cursor
+- VS Code
+
 ## Languages
 - JavaScript (ES6+)
 - TypeScript
